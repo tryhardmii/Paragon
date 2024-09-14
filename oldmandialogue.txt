@@ -1,0 +1,3 @@
+???/She's looking for me? Oh, I suppose I should come back now./ I forgot to go back../Although I can't remember how I got here without fighting any monsters./Could you help me back? | lead him back
+Thank you young man!/I'm sure you'd love to go to the next area./However, the bridge is broken. I heard that the monsters on the bottom-right island have some materials... | bring back 5 wooden planks
+Wow, the bridge should be repaired now! You can go to the next area! | travel to area 3

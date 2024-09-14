@@ -1,0 +1,4 @@
+- bug fix #later
+- bossfight does not work, you can't enter or fight him
+- data saving/loading (esc screen?)
+- multi line questions #visual
